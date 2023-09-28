@@ -1,0 +1,2 @@
+Archivo para realizar un commit y luego hacer otro commit en remoto y tratar de fusionarlas
+
